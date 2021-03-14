@@ -1,2 +1,2 @@
-# ComputerCommunicationAndNetworkProgramming
+# SNTP-Message
 RFC
